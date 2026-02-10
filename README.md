@@ -12,13 +12,14 @@ El trabajo incluye la definición de requisitos, historias de usuario, diagramas
 
 ## Documentos Principales
 
-- [Introducción y Objetivos](docs/01_introduction_and_goals.md)
-- [Restricciones de Arquitectura](docs/02_architecture_constraints.md)
-- [Alcance y Contexto del Sistema](docs/03_system_scope_and_context.md)
-- [Vista de Contenedores](docs/05_building_block_view.md)
-- [Vista de Ejecución](docs/06_runtime_view.md)
-- [Vista de Despliegue](docs/07_deployment_view.md)
-- [Glosario](docs/10_glossary.md)
+- [Introducción y Objetivos](01_introduction_and_goals.md)
+- [Restricciones de Arquitectura](02_architecture_constraints.md)
+- [Alcance y Contexto del Sistema](03_system_scope_and_context.md)
+- [Vista de Contenedores](05_building_block_view.md)
+- [Vista de Ejecución](06_runtime_view.md)
+- [Vista de Despliegue](07_deployment_view.md)
+- [Glosario](10_glossary.md)
+
 
 
 ## Herramientas Utilizadas
