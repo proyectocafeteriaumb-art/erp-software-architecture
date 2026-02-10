@@ -20,6 +20,7 @@ El trabajo incluye la definición de requisitos, historias de usuario, diagramas
 - [Vista de Despliegue](docs/07_deployment_view.md)
 - [Glosario](docs/10_glossary.md)
 
+
 ## Herramientas Utilizadas
 
 - PlantUML para la generación de diagramas
