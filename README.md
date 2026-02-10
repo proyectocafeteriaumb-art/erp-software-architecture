@@ -19,6 +19,8 @@ El trabajo incluye la definición de requisitos, historias de usuario, diagramas
 - [Vista de Ejecución](06_runtime_view.md)
 - [Vista de Despliegue](07_deployment_view.md)
 - [Glosario](10_glossary.md)
+- [Ver diagramas (carpeta images)](docs/images)
+
 
 
 
