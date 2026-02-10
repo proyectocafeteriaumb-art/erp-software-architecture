@@ -1,7 +1,12 @@
 # 2. Restricciones de Arquitectura
 
-- Backend: Java con Spring Boot.
-- Frontend: SPA con React.
-- Base de datos: PostgreSQL.
-- Diagramas realizados con PlantUML.
-- Documentación basada en arc42.
+# Restricciones y Decisiones de Arquitectura
+
+Para el desarrollo del sistema ERP se tomaron las siguientes decisiones tecnológicas:
+
+- El backend será desarrollado en Java utilizando el framework Spring Boot.
+- La arquitectura será monolítica para simplificar el desarrollo y mantenimiento.
+- La base de datos utilizada será PostgreSQL.
+- El frontend será una aplicación web de tipo SPA (Single Page Application).
+- La comunicación entre frontend y backend se realizará mediante servicios REST usando JSON.
+- El sistema será accesible a través de un navegador web.
